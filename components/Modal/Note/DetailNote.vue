@@ -76,6 +76,7 @@ export default {
         this.i++
       }
     },
+    
     handleUndo() {
       this.i = 0
       this.form = this.formBackup
