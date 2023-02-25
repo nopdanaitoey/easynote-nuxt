@@ -1,3 +1,5 @@
-for test
+For test EasyNote
+
+Nuxt.js
 
 Nopdanai Khammueng
