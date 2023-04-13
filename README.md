@@ -1,5 +1,1 @@
-For test EasyNote
-
-Nuxt.js
-
-Nopdanai Khammueng
+Easy Note Ui Create By Nuxt.js
